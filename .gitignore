@@ -1,0 +1,14 @@
+# Entorno
+.env
+Backend/.env
+
+# Dependencias
+node_modules/
+
+# Logs
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db
+ls -a
